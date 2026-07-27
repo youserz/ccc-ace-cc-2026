@@ -1,0 +1,11 @@
+# Arquivos temporários de extração de PDF
+*.txt
+
+# Conversão intermediária
+formulario_2.md
+
+# Python cache
+__pycache__/
+
+# Arquivos do sistema
+Thumbs.db
